@@ -3,8 +3,8 @@ package kata_6;
 import java.awt.Color;
 import java.awt.Graphics;
 import javax.swing.JPanel;
-import kata6.model.Block;
-import kata6.view.BlockDisplay;
+import kata_6.model.Block;
+import kata_6.view.BlockDisplay;
 
 public class BlockPanel extends JPanel implements BlockDisplay{
     private static final int SIZE = 100;

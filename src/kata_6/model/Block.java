@@ -1,4 +1,4 @@
-package kata6.model;
+package kata_6.model;
 
 import java.util.ArrayList;
 import java.util.List;

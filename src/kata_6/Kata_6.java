@@ -12,14 +12,14 @@ import javax.swing.JFrame;
 import static javax.swing.JFrame.EXIT_ON_CLOSE;
 import javax.swing.JMenuBar;
 import javax.swing.JPanel;
-import kata6.control.Command;
-import kata6.control.DownCommand;
-import kata6.control.LeftCommand;
-import kata6.control.RightCommand;
-import kata6.control.UpCommand;
-import kata6.control.timeCommand;
-import kata6.model.Block;
-import kata6.view.BlockDisplay;
+import kata_6.control.Command;
+import kata_6.control.DownCommand;
+import kata_6.control.LeftCommand;
+import kata_6.control.RightCommand;
+import kata_6.control.UpCommand;
+import kata_6.control.timeCommand;
+import kata_6.model.Block;
+import kata_6.view.BlockDisplay;
 
 public class Kata_6 extends JFrame {
     private final Block block;

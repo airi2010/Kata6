@@ -1,6 +1,6 @@
-package kata6.view;
+package kata_6.view;
 
-import kata6.model.Block;
+import kata_6.model.Block;
 
 public interface BlockDisplay extends Block.Observer{
     public Block block();
